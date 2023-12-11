@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<scenarios>
-    <scenario name="OvertakeWithConeInFront" type="OvertakeWithConeInFront" town="Town03">
-        <ego_vehicle x="-29" y="207.9" z="0.0" yaw="0" model="vehicle.lincoln.mkz_2017" />
-        <other_actor x="74.4" y="203.9" z="1" yaw="90" model="static.prop.container"/>
-        <weather cloudiness="30" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="45" sun_altitude_angle="30" />
-    </scenario>
-</scenarios>
-
